@@ -1,0 +1,1 @@
+The dataset contains images of three skin diseases namel, Nevus, Melanoma and Seborrheic keratosis. The code is completely based on keras deep learning framework, which is used for 2D inputs like images. The pre-trained VGG16 model is used with necessary layers added. Finally the actual and predicted images are compared as output with an accuracy of 60%. 
